@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vishnu 👋
 
-<!--
-**vishnu-vinod-11/vishnu-vinod-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications and exploring AI-powered technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git and GitHub
+
+### My Interests
+- Full-Stack Development
+- AI Application Development
+- Building real-world projects
+- Problem Solving
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vishnu213
+- GitHub: https://github.com/vishnu-vinod-11
